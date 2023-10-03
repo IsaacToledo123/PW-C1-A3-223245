@@ -1,0 +1,113 @@
+
+
+.noticias {
+    padding-top: 20px;
+    background-color: #000;
+    color: white;
+    padding-bottom: 40px;
+    left: 0;
+    padding-bottom: 40px;
+}
+
+.tituloNoticiah2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    padding-left: 100px;
+    opacity:0.5;
+}
+
+
+.tituloNoticia1 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+
+}
+.tituloNoticia2 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+
+}
+.logoEquipo{
+    padding-left: 100px;
+    height: 200px;
+    width: 200px;
+}
+.inicio{
+    display: flex;
+    justify-content: left;
+}
+.masNoticias {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 100%;
+}
+
+.hijo {
+    display: block;
+    width: 280px;
+
+    text-align: justify;
+    max-width: 100%;
+}
+
+.masImg {
+    width: 280px;
+    height: 180px;
+    border-radius: 5px;
+}
+
+.dosNoticias-hijo {
+    display: flex;
+    border: 1px solid #dfd6d63c;
+    text-align: start;
+    font-size: smaller;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 350px;
+    width: 650px;
+    border-radius: 10px;
+}
+
+.dosNoticias {
+    display: flex;
+    justify-content: space-around;
+    text-align: justify;
+    padding-bottom: 18px;
+}
+
+.imgDos {
+    width: 370px;
+    height: 350px;
+    padding-right: 10px;
+}
+.noticias {
+    padding-top: 20px;
+    background-color: #000;
+    color: white;
+    padding-bottom: 40px;
+    left: 0;
+    padding-bottom: 40px;
+
+
+}
+
+.noticias>.noticiaPrincipal {
+    display: flex;
+    padding-left: 5%;
+    width: 90%;
+    border: 1px solid #dfd6d63c;
+    text-align: start;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 50px;
+
+}
+.tituloNoticia3{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    padding-left: 70px;
+}

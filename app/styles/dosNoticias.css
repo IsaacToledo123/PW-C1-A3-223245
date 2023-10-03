@@ -1,0 +1,23 @@
+.dosNoticias-hijo {
+    display: flex;
+    border: 1px solid #dfd6d63c;
+    text-align: start;
+    font-size: smaller;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    height: 350px;
+    width: 650px;
+    border-radius: 10px;
+}
+
+.dosNoticias {
+    display: flex;
+    justify-content: space-around;
+    text-align: justify;
+    padding-bottom: 18px;
+}
+
+.imgDos {
+    width: 370px;
+    height: 350px;
+    padding-right: 10px;
+}

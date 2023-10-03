@@ -1,0 +1,79 @@
+.noticias {
+    padding-top: 20px;
+    background-color: #000;
+    color: white;
+    padding-bottom: 40px;
+    left: 0;
+    padding-bottom: 40px;
+
+
+}
+.tituloNoticia {
+    color: white;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 25px;
+    padding-left: 100px;
+}
+.masNoticias {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 100%;
+}
+
+.hijo {
+    display: block;
+    width: 280px;
+
+    text-align: justify;
+    max-width: 100%;
+}
+.masImg {
+    width: 280px;
+    height: 180px;
+    border-radius: 5px;
+}
+.tituloNoticiah2{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 15px;
+    padding-left: 100px;
+    opacity:0.5;
+}
+.shorts{
+    border-top: 1px solid #dfd6d63c;
+    border-bottom: 1px solid #dfd6d63c;
+    padding-bottom: 30px;
+}
+.autor {
+    align-self: flex-end;
+    display: flex;
+    justify-content: flex-end; 
+  }
+  
+  .autor:hover {
+    color: rgb(138, 138, 138);
+    transform: scale(1.2);
+  }
+  
+  .autor > p {
+    padding-right: 8px;
+    margin: 0; 
+  }
+  
+  .origen {
+    font-size: 13px;
+    margin: 0; 
+  }
+  
+  .hora {
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.489);
+    margin: 0; 
+  }
+  
+  .guardar {
+    font-size: 20px;
+    margin-left: 60px; 
+  }
+  

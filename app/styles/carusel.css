@@ -1,0 +1,17 @@
+.contenido{
+    color: white;
+    height: 400px;
+    padding: 25px 28px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.noticias{
+    font-size: 32px;
+    text-align: center;
+    margin: 55px;
+}
+.autor{
+    display: flex;
+    gap: 18px;
+}

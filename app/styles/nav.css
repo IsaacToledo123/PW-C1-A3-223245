@@ -1,0 +1,147 @@
+nav {
+    background-color: #000;
+    display: flex;
+    justify-content: space-between;
+    left: 0;
+    top: 0;
+    margin: auto;
+    width: 100%;
+    position: fixed;
+
+
+}
+
+nav>ul {
+    width: 100px;
+    height: 50px;
+    width: auto;
+    display: flex;
+    list-style: none;
+
+}
+
+nav>div {
+
+    width: 100px;
+    height: 50px;
+    width: auto;
+    display: flex;
+
+}
+
+nav>ul>li {
+    padding-top: 12px;
+
+}
+
+nav>ul>li>a {
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 15px;
+    padding-top: 13px;
+    color: white;
+    padding-right: 10px;
+
+}
+
+
+.imagenes {
+    padding-top: 15px;
+    right: 100px;
+}
+
+.imagenesNav>.hijoss {
+    padding-right: 30px;
+
+}
+
+.menu-horizontal>li>a:hover {
+    color: yellow;
+}
+
+.menu-vertical {
+    padding-top: 50px;
+    position: absolute;
+    display: none;
+    width: 100%;
+    left: 0;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    list-style: none;
+
+}
+
+.menu-horizontal li:hover .menu-vertical {
+    display: block;
+}
+
+.contenedor {
+
+    display: flex;
+    justify-content: left;
+    width: 70%;
+    border-right: 1px solid #dfd6d63c;
+
+}
+
+.contenedor>ul>li>a {
+    text-decoration: none;
+    color: white;
+}
+
+.contenedor>ul {
+    list-style: none;
+
+}
+
+.contenedor>ul>li {
+    margin: 10px;
+
+}
+
+.contenedor>ul>li:hover {
+    background-color: rgba(138, 138, 138, 0.201);
+    /* Cambia el color al pasar el mouse */
+    transform: scale(1.2);
+
+}
+
+.escudo {
+    padding-right: 5px;
+    width: 20px;
+    height: 20px;
+}
+
+.tituloEquipos {
+    color: rgba(255, 255, 255, 0.441);
+    font-size: medium;
+    padding-left: 40px;
+
+}
+
+.encapsulado {
+    display: flex;
+}
+
+.directorio {
+    margin: 10px;
+}
+
+.directorio:hover {
+    background-color: rgba(138, 138, 138, 0.201);
+    /* Cambia el color al pasar el mouse */
+    transform: scale(1.2);
+
+}
+
+.direct {
+    padding-left: 40px;
+}
+
+.tituloEquipos1 {
+    color: rgba(255, 255, 255, 0.441);
+    font-size: medium;
+
+
+}
